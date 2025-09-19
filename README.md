@@ -15,3 +15,8 @@ A step-by-step guide for building a local LLM environment using Ollama and Docke
 -   **모델별 특성 분석**을 통한 최적의 모델 선정 가이드 제공.
 -   **모델 양자화(Quantization)**를 통한 **성능 및 메모리 최적화 기법** 설명.
 -   Ollama 및 모델 **업데이트와 유지보수** 방법 정리.
+
+### 3. 문서 기반 질의응답(RAG) 심화 활용
+- **단일/다수 문서 RAG 테스트** 및 **성능 분석**
+- **RAG 설정 최적화** 가이드 (청크 크기, 임베딩 모델 등)
+- **실무 환경별 RAG 설정** 권장사항
